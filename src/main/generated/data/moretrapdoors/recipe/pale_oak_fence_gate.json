@@ -4,7 +4,7 @@
   "group": "wooden_fence_gate",
   "key": {
     "#": "minecraft:stick",
-    "P": "minecraft:acacia_planks"
+    "P": "minecraft:pale_oak_planks"
   },
   "pattern": [
     "#P#",
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 2,
-    "id": "minecraft:acacia_fence_gate"
+    "id": "minecraft:pale_oak_fence_gate"
   }
 }

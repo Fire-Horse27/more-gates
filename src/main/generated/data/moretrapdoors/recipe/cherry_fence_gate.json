@@ -3,12 +3,8 @@
   "category": "redstone",
   "group": "wooden_fence_gate",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "minecraft:cherry_planks"
-    }
+    "#": "minecraft:stick",
+    "P": "minecraft:cherry_planks"
   },
   "pattern": [
     "#P#",
